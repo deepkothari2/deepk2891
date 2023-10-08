@@ -82,26 +82,15 @@
 
 
 ### 🔥 &nbsp; My Stats :
-
-<a href="https://github.com/deepk2891">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepk2891&layout=compact&langs_count=8&theme=tokyonight" />
-</a>   
-<a href="https://github.com/deepk2891">
-  <img height=180em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepk2891&layout=compact&langs_count=8&theme=tokyonight" />
-</a>
+<div>
+    <a href="https://github.com/deepk2891">
+      <img height=170em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepk2891&layout=compact&langs_count=8&theme=tokyonight" />
+    </a>   
+    <a href="https://github.com/deepk2891">
+      <img height=170em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepk2891&layout=compact&langs_count=8&theme=tokyonight" />
+    </a>
+</div>
 
 ---
 
 ### Show some ❤️ by starring some of the repositories!
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/barnamenevisiadmin/">
-<img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://gitlab.com/rzashakeri">
-<img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-</a>
-
-</div>
